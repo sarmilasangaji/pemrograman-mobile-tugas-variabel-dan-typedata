@@ -1,1 +1,2 @@
-# pemrograman-mobile-tugas-variabel-dan-typedata
+nama : sarmila sangaji
+npm : 07352311128
